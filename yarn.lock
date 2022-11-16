@@ -1258,7 +1258,7 @@ __metadata:
     "@nomiclabs/hardhat-etherscan": ^3.1.0
     "@trivago/prettier-plugin-sort-imports": ^3.3.0
     "@typechain/ethers-v5": ^10.1.0
-    "@typechain/hardhat": ^6.1.2
+    "@typechain/hardhat": ^6.1.4
     "@types/chai": ^4.3.3
     "@types/fs-extra": ^9.0.13
     "@types/mocha": ^9.1.1
@@ -1528,20 +1528,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typechain/hardhat@npm:^6.1.2":
-  version: 6.1.2
-  resolution: "@typechain/hardhat@npm:6.1.2"
+"@typechain/hardhat@npm:^6.1.4":
+  version: 6.1.4
+  resolution: "@typechain/hardhat@npm:6.1.4"
   dependencies:
     fs-extra: ^9.1.0
-    lodash: ^4.17.15
   peerDependencies:
     "@ethersproject/abi": ^5.4.7
     "@ethersproject/providers": ^5.4.7
-    "@typechain/ethers-v5": ^10.1.0
+    "@typechain/ethers-v5": ^10.1.1
     ethers: ^5.4.7
     hardhat: ^2.9.9
-    typechain: ^8.1.0
-  checksum: 875753de831825c95c30e6792949f38f69fcee888c1936042414c8d030ecc181817cc0f5cbf6f1764f30779b5f840201eb29addda45713fd0b58a71693102a2c
+    typechain: ^8.1.1
+  checksum: 9477d59638da5e92983a188938bbb74b4c8f476887e6e91da99552ff260d996e7b78836b2a7fb3aede599061994119e2125d4fea2b1919a02c27c0a582525e92
   languageName: node
   linkType: hard
 
